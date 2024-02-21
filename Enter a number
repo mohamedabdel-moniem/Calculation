@@ -1,0 +1,29 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+cout << "Enter number1: ";
+
+int number1;
+
+cin >> number1;
+
+
+cout << "Enter number2: ";
+
+int number2;
+
+cin >> number2;
+
+int result = number1 * number2;
+
+
+cout << "Equal: " << result;
+
+
+return 0;
+
+
+
+} 
